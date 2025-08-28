@@ -1,0 +1,2 @@
+# Security
+No secrets allowed.

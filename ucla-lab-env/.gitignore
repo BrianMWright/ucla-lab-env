@@ -1,0 +1,8 @@
+id_ed25519*
+*.iso
+*.vhdx
+*.vdi
+*.qcow2
+*.pcap*
+.DS_Store
+.vscode/
