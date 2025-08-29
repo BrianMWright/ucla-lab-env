@@ -1,4 +1,4 @@
-id_ed25519*
+﻿id_ed25519*
 *.iso
 *.vhdx
 *.vdi
@@ -6,3 +6,4 @@ id_ed25519*
 *.pcap*
 .DS_Store
 .vscode/
+

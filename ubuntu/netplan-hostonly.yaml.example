@@ -1,6 +1,7 @@
-network:
+﻿network:
   version: 2
   ethernets:
     <NIC>:
       addresses: [<IP>/24]
       dhcp4: no
+
