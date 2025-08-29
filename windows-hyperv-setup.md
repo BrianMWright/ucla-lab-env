@@ -4,3 +4,4 @@
 - Set HostOnly static IP inside VM via netplan
 - SSH keys + VS Code Remote
 
+
